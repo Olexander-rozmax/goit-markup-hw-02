@@ -34,13 +34,16 @@
  }
 /*========================-NAVIGATION-===================*/
 .logo{
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     color: #4D5AE5;
     text-decoration: none;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
 }
 .logo>span {
     font-family: 'Raleway';
