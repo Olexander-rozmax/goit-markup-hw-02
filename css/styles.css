@@ -67,7 +67,7 @@ color: #434455
         line-height: 1.5;
         color: #2E2F42;
         text-decoration: none;
-       letter-spacing: 0.2em;
+     
  }
  .adress-mail{
     font-family: 'Roboto' sans-serif;
@@ -77,7 +77,7 @@ color: #434455
         line-height: 1.5;
         color: #434455;
         text-decoration: none;
-        letter-spacing: 0.2em;
+       
  }
  .adress-phone{
     font-family: 'Roboto' sans-serif;
@@ -87,7 +87,7 @@ color: #434455
         line-height: 1.5;
         color: #434455;
         text-decoration: none;
-        letter-spacing: 0.2em;
+       
  }
  /* =====================-HERO-#FFFFFF======================== */
  .hero-text{
