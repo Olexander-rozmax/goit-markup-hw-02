@@ -10,24 +10,26 @@ color: #434455
  list-style: none;
  }
 
- h3{
-       font-family: 'Roboto';
+ h2{
+       font-family: 'Roboto'sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         color: #2E2F42;
+        letter-spacing: 0.02em
  }
  p{
-    font-family: 'Roboto';
+    font-family: 'Roboto'sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         color: #434455;
+        letter-spacing: 0.02em
  }
- h2{
-    font-family: 'Roboto';
+ h1{
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
@@ -48,7 +50,7 @@ color: #434455
 
 }
 .logo>span {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -58,7 +60,7 @@ color: #434455
   
  }
  .navigation {
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -68,7 +70,7 @@ color: #434455
        letter-spacing: 0.2em;
  }
  .adress-mail{
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
@@ -78,7 +80,7 @@ color: #434455
         letter-spacing: 0.2em;
  }
  .adress-phone{
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
@@ -89,7 +91,7 @@ color: #434455
  }
  /* =====================-HERO-#FFFFFF======================== */
  .hero-text{
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 56px;
@@ -101,7 +103,7 @@ color: #434455
  }
  .order-button {
     background: #4D5AE5;
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -111,7 +113,7 @@ color: #434455
 
  }
  .footer-text{
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
@@ -122,13 +124,14 @@ color: #434455
 
 /* =========== BUTTONS ON PORTFOLIO PAGE ============= */
 .modal-button {
-    font-family: 'Roboto';
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         color: #4D5AE5;
-        background-color: #F4F4FD;;
+        background-color: #F4F4FD;
+        letter-spacing: 0.04em
 }
 .modal-button:hover,
 .modal-button:focus {
