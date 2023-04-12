@@ -76,6 +76,12 @@ background-color: #FFFFFF;
         letter-spacing: 0.02em
      
  }
+ .navigation:hover,
+ .navigation:focus
+  {color: #404bbf;
+
+ }
+
  .adress-mail{
     font-family: 'Roboto' sans-serif;
         font-style: normal;
