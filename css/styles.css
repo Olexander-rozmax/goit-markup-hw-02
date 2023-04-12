@@ -8,14 +8,24 @@ background-color: #FFFFFF;
 font-family: 'Roboto' sans-serif;     
 }
 
-h2{
-font-family: 'Roboto'sans-serif;
+.competition{
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
+letter-spacing: 0.02em;
 color: #2E2F42;
-letter-spacing: 0.02em
+}
+
+.main-description{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+color: #2E2F42;
 }
 
 .paragraf {
@@ -28,7 +38,7 @@ color: #434455;
 letter-spacing: 0.02em
 }
 
-h1{
+.hero-text{
 font-family: 'Roboto' sans-serif;
 font-style: normal;
 font-weight: 700;
