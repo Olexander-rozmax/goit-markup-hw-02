@@ -29,6 +29,14 @@ background-color: #FFFFFF;
         color: #434455;
         letter-spacing: 0.02em
  }
+
+ .paragraf {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+ }
  h1{
     font-family: 'Roboto' sans-serif;
         font-style: normal;
