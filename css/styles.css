@@ -93,6 +93,10 @@ background-color: #FFFFFF;
         letter-spacing: 0.02em
        
  }
+ .adress-mail:hover,
+ .adress-mail:focus {
+     color: #404bbf;}
+
  .adress-phone{
     font-family: 'Roboto';
         font-style: normal;
@@ -103,8 +107,11 @@ background-color: #FFFFFF;
         text-decoration: none;
         letter-spacing: 0.02em
         
-       
  }
+  .adress-phone:hover,
+  .adress-mail:focus {
+      color: #404bbf;
+  }
  /* =====================-HERO-#FFFFFF======================== */
  .hero-text{
     font-family: 'Roboto' sans-serif;
