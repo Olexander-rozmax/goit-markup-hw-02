@@ -1,11 +1,19 @@
 
 /* basic styles -------------------------------------------------*/
 
+:root {
+    --main-color: #FFFFFF;
+    --second-title-color: #2E2F42;
+    --second-link-color: #2E2F42;
+    --second-adress-color: #434455;
+    --third-text-color:#434455;
+    --body-color: #434455;}
 
 body { 
 font-family:"Roboto", sans-serif;
 color: #434455;
-background-color: #FFFFFF;
+background-color: var(--main-color);
+
     
 }
 
