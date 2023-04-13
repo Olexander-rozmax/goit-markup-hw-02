@@ -12,10 +12,9 @@
 body { 
 font-family:"Roboto", sans-serif;
 color: #434455;
-background-color: var(--main-color);
-
-    
+background-color: var(--main-color);   
 }
+
 
 .competition{
 font-family: 'Roboto';
@@ -78,6 +77,9 @@ text-decoration: none;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+link{
+    text-decoration: none
+}
 
 span {
 font-family: 'Raleway' sans-serif;
@@ -86,8 +88,9 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 color: #2E2F42;
-text-decoration: none;
+
 }
+
 
 .nav {
 font-family: 'Roboto' sans-serif;
