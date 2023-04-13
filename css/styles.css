@@ -106,37 +106,23 @@ letter-spacing: 0.02em
 color: #404bbf;
 }
 
-.list-mail{
+.list-adres {
 font-family: 'Roboto' sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 color: #434455;
-text-decoration: none;
-letter-spacing: 0.02em     
+letter-spacing: 0.02em;
+text-decoration: none; 
 }
 
-.list-mail:hover,
-.list-mail:focus {
+.list-adres:hover,
+.list-adres:focus {
 color: #404bbf;
 }
 
-.list-phone{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-color: #434455;
-text-decoration: none;
-letter-spacing: 0.02em     
-}
 
-.list-phone:hover,
-.list-mail:focus {
-color: #404bbf;
-}
 /*hero-section ------------------------------------------------ */
 .hero-text{
 font-family: 'Roboto' sans-serif;
